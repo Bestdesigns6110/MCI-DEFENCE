@@ -1240,10 +1240,10 @@
   .hero-single .text {
     margin-bottom: 25px !important;
   }
-      .adav_out img {
+      /* .adav_out img {
         width: 45px !important;
         height: 45px;
-    }
+    } */
     /* .adav_out{
         height: 260px !important;
     } */
@@ -1764,10 +1764,10 @@
   .row.align-items-center.mt-5.pt-5.deply_mt {
     align-items: start !important;
   }
-  .adav_out img {
+  /* .adav_out img {
     width: 55px !important;
     height: 55px;
-  }
+  } */
   .we_our_out h3 {
     font-size: 20px;
     line-height: 29px;
@@ -1925,10 +1925,10 @@ body .why_mcisec .col-md-3 {
  .kav_txt h2 {
         font-size: 34px !important;
     }
-.adav_out img {
+/* .adav_out img {
         width: 40px !important;
         height: 40px;
-    }
+    } */
         .deply_mt .col-md-4 .adav_out p {
         font-size: 13px;
         text-align: left;

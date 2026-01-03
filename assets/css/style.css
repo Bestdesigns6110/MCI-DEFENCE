@@ -5505,6 +5505,10 @@ label.label-block {
     font-size: 20px !important;
     line-height: 26px;
   }
+  .compr_ot h3 {
+    font-size: 28px !important;
+    line-height: 40px !important;
+  }
 }
 
 .hero .slide {
@@ -6453,7 +6457,7 @@ text-transform: uppercase;
 .who-we-are{
     position: relative;
 }
-.who-we-are img {
+.who-we-are img.enhance-img {
   position: absolute;
   top: 0px;
   left: 0px !important;
@@ -6487,4 +6491,20 @@ color:#fff !important;
 .who-we-are .compr_ot {
   position: relative;
   z-index: 1;
+}
+.who-we-are .compr_ot {
+    padding-left: 125px;
+    position: relative;
+    padding-right: 30px;
+}
+.compr_ot div {
+    position: absolute;
+    left: 25px;
+    width: 70px;
+    top: 14px;
+
+}
+
+.who-we-are .compr_ot.pl-0{
+  padding-left: 0px !important;
 }
