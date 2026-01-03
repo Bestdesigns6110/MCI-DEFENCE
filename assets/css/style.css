@@ -6273,9 +6273,9 @@ margin-bottom: 10px;
 .main-menu ul {
   list-style: none;
   display: flex;
-  justify-content: center;
+  justify-content: end;
   align-items: center;
-  width: 50%;
+  width: 100%;
   margin: 0;
   padding: 0;
 }
@@ -6497,7 +6497,7 @@ color:#fff !important;
     position: relative;
     padding-right: 30px;
 }
-.compr_ot div {
+.who-we-are .compr_ot div {
     position: absolute;
     left: 25px;
     width: 70px;
